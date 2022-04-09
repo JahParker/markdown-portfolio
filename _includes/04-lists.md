@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Longboarding
+	+ Longboard Dancing
+- Mechanical Keyboards
+	+ Typing
+- Reading
+- Journaling
+- Jumprope
