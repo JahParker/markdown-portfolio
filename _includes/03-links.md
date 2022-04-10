@@ -1,1 +1,1 @@
-[JahParker](github.com/JahParker)
+[JahParker](https://github.com/JahParker)
